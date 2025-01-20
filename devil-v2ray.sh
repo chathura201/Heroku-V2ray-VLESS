@@ -13,7 +13,7 @@ cat << EOF > /etc/xray/config.json
         "decryption": "none",
         "clients": [
           {
-            "id": "$UUID"
+            "id": "784ad81a-680b-4fac-b77d-a1376dbcb382"
           }
         ]
       },
